@@ -1,7 +1,29 @@
 body {
-  font-family: Arial;
+  font-family: cursive;
+  background-color: lawngreen;
 }
 
 p {
   color: slategray;
+}
+
+h1 {
+  color: crimson;
+}
+
+strong {
+  color: royalblue;
+}
+
+p {
+  border: dotted;
+  border-color: crimson;
+}
+
+ul {
+  list-style-type: lower-greek;
+}
+
+em {
+  color: royalblue;
 }

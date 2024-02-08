@@ -1,0 +1,43 @@
+ul {
+    color: blueviolet;
+    list-style-type: georgian;
+    border-style: ridge;
+    width: 100px;
+    background-color: aqua;
+
+}
+
+ol {
+    list-style-type: georgian;
+    color: blueviolet;
+}
+
+h1 {
+    color: aqua;
+}
+
+h3 {
+    color: purple;
+}
+
+article>h3 {
+    color: yellowgreen;
+}
+
+p {
+    padding: 10px;
+}
+
+article>p {
+    padding: 15px;
+    color: gray;
+}
+
+footer>p {
+    font-size: small;
+}
+
+article>ul {
+    color: blueviolet;
+    list-style-type: upper-roman;
+}
